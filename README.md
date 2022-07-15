@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winnertguevara
 - 🎓 I’m computer engineering student at Universidad Simon Bolivar.
-- 🌱 I’m currently learning about web development  
+- 🌱 I’m currently learning about software development  
 - 👀 How to reach me
 - 📷 **Intagram @win.nert**
 - 💻 **Linkedin @winnertguevara**
